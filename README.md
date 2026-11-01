@@ -9,7 +9,7 @@ Odin Recipes is a static multi-page website that demonstrates foundational HTML 
 It features three delicious recipes with images, descriptions, ingredients, and step-by-step instructions.
 
 ## Live Demo 
-<https://osmanamin0448.github.io/odin-recipes-v2/>
+<https://osmanamin0448.github.io/odin-recipes/>
 
 ## Features / what i learned
 - Responsive navigation between home page ande recipe pages
